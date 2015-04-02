@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Projekat iz Razvoja softvera-Testiranje" << endl;
+	cout << "Projekat iz Razvoja softvera-Testiranjee" << endl;
 	return 0;
 }
